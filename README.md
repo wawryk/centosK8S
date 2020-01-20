@@ -1,7 +1,4 @@
 # Vagrant Centos kubernetes cluster
-- Centos 7.2 amd64
-- docker 1.10
-- kubeadm 1.5
 
 ## plugins used
 - flannel
