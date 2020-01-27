@@ -5,7 +5,7 @@
 - dashboard
 
 ## Installation
-Use install_requirements.sh anr read help
+Use install_requirements.sh but first read help
 ```bash
 ./install_requirements.sh --help
 ```
